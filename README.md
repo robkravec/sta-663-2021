@@ -1,5 +1,7 @@
 # STA 663 (Spring 2021) Syllabus
 
+Docker containers: http://vm-manage.oit.duke.edu
+
 ## Synopsis
 
 STA 663: Computational Statistics and Statistical Computing
